@@ -1,0 +1,3 @@
+# Gr8fulSuz-alpha-uno
+My Start-Up Repository...
+A novis who is trying GitHub and looking for snippets to further my learning.
